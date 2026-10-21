@@ -1,6 +1,6 @@
 # Hi, I'm Rohan 👋
 
-Full-stack software engineer in Mumbai, India. I have 3 years of experience shipping SaaS products in TypeScript, React, Node.js and Python, including billing and payments, creator-commerce platforms, data pipelines and AI tooling (MCP servers, LLM agents).
+Full-stack software engineer in Mumbai, India. I have 3 years of experience shipping SaaS products in TypeScript, React, Node.js and Python, including billing and payments, creator-commerce platforms, data pipelines and AI tooling.
 
 I'm a Software Engineer II at [Pattern](https://pattern.com), working on its TikTok Shop creator-commerce and analytics products.
 
